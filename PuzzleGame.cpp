@@ -1,3 +1,4 @@
+/*This is a simple cpp game*/
 #include<iostream>
 #include<cstdlib>
 #include<conio.h>
