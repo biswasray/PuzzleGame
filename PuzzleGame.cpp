@@ -1,4 +1,5 @@
-/*This is a simple cpp game*/
+/*This is a simple cpp game
+Open Source code to everyone*/
 #include<iostream>
 #include<cstdlib>
 #include<conio.h>
